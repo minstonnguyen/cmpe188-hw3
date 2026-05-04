@@ -1,0 +1,15 @@
+{
+  "text_mode": "prompt_payload",
+  "test_size": 0.2,
+  "random_seed": 42,
+  "cv_splits": 5,
+  "n_rows": 9500,
+  "class_names": [
+    "bit_manipulation",
+    "cipher_text",
+    "gravity",
+    "roman",
+    "symbol_transform",
+    "unit_conversion"
+  ]
+}
